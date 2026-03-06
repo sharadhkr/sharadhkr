@@ -44,21 +44,15 @@ Tech: `MongoDB` `Express` `React` `NodeJS` `Plotly` `Framer Motion`
 
 ------------------------------------------------------------------------
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=sharadhkr&show_icons=true&theme=tokyonight)
+![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharadhkr&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhkr&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhkr&layout=compact&theme=tokyonight&hide_border=true)
+## 🔥 GitHub Streak
 
 ------------------------------------------------------------------------
-
-# 🔥 GitHub Streak
-
-![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharadhkr&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=sharadhkr&theme=tokyonight&hide_border=true)
 ------------------------------------------------------------------------
 
 # 📈 Contribution Graph
