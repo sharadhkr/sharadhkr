@@ -1,6 +1,5 @@
 ![Header](./i.png)
-Problem Driven Engineering  student focused on productive and dynamic solutions through the practical applications of AI/ML and IOT with real world challenges.
-# 💫 About Me:
+#Problem Driven Engineering  student focused on productive and dynamic solutions through the practical applications of AI/ML and IOT with real world challenges.
 🔭 I’m currently working on printer driver<br>🤝 I’m looking for help with<br>🌱 I’m currently learning postscript
 
 
