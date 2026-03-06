@@ -1,16 +1,98 @@
-![Header](./i.png)
-#Problem Driven Engineering  student focused on productive and dynamic solutions through the practical applications of AI/ML and IOT with real world challenges.
-🔭 I’m currently working on printer driver<br>🤝 I’m looking for help with<br>🌱 I’m currently learning postscript
+# 👋 Hello, I'm **Sharad Rathore**
 
+🚀 **Problem Driven Engineering Student** passionate about building
+productive and dynamic solutions through the practical application of
+**AI/ML and IoT** to solve real-world challenges.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sharadhkr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sharadhkr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhkr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+------------------------------------------------------------------------
 
----
-[![](https://visitcount.itsvg.in/api?id=sharadhkr&icon=5&color=1)](https://visitcount.itsvg.in)
+# 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-   🎓 **B.Tech -- AI & ML** \| ITM University, Gwalior (2023--2027)\
+-   🔭 Currently working on **Smart Thermal Printer Driver & PostScript
+    Systems**
+-   🤖 Interested in **AI/ML, IoT, System Design & Full-Stack
+    Engineering**
+-   🌱 Currently learning **PostScript, System Programming & Advanced
+    ML**
+-   ⚡ Love solving **real world engineering problems**
+
+------------------------------------------------------------------------
+
+# 🏆 Major Projects
+
+## 🤖 GestureBot -- IoT Gesture Controlled Robot
+
+-   Built using **ESP32, motor drivers, RF sensors, and gear motors**
+-   Implemented **ML gesture recognition model**
+-   Commands transmitted wirelessly through **ESP HTTP server**
+-   Enables **remote phone based gesture control**
+
+Tech: `ESP32` `Python` `Machine Learning` `IoT` `Embedded Systems`
+
+------------------------------------------------------------------------
+
+## 🛒 Starkk.shop -- AI Integrated Scalable E-Commerce Platform
+
+A **production-level MERN stack platform** with dynamic admin analytics
+and advanced authentication.
+
+Features: - Drag & Drop **Admin Dashboard Builder** - Real-time **sales,
+payments, and user analytics** - Secure authentication with **Google
+Auth + JWT** - Integrated **Razorpay payment gateway** - Dynamic UI
+components controlled by admin
+
+Tech: `MERN` `Cloudinary` `Twilio` `Razorpay` `Framer Motion` `Plotly`
+
+------------------------------------------------------------------------
+
+# 💻 Tech Stack
+
+### Languages
+
+C • Python • Java • JavaScript
+
+### AI / ML
+
+TensorFlow • PyTorch • OpenCV • NumPy • Pandas • Matplotlib • Plotly
+
+### Web Development
+
+React • Redux • Context API • EJS • TailwindCSS
+
+### Backend
+
+Flask • Node.js • Express.js • JWT
+
+### Databases
+
+MongoDB • MySQL
+
+### IoT
+
+Arduino • ESP32
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=sharad-rathore&show_icons=true&theme=tokyonight)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharad-rathore&layout=compact&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+# 👁 Profile Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=sharad-rathore&label=Profile%20views&color=0e75b6&style=flat)
+
+------------------------------------------------------------------------
+
+# 🤝 Connect With Me
+
+📧 Email: **sharad.hkr@gmail.com**
+
+💻 Open to collaboration on: - AI / ML projects - IoT systems - System
+programming - Scalable full-stack applications
