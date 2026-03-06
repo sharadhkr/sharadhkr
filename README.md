@@ -1,21 +1,42 @@
 # 👋 Hello, I'm **Sharad Rathore**
 
-🚀 **Problem Driven Engineering Student** passionate about building
-productive and dynamic solutions through the practical application of
-**AI/ML and IoT** to solve real-world challenges.
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;IoT+Innovator;Full+Stack+Developer;Problem+Driven+Engineer;Building+Real+World+Solutions" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
 # 🚀 About Me
 
--   🎓 **B.Tech -- AI & ML** \| ITM University, Gwalior (2023--2027)\
--   🔭 Currently working on **Smart Thermal Printer Driver & PostScript
-    Systems**
--   🤖 Interested in **AI/ML, IoT, System Design & Full-Stack
-    Engineering**
--   🌱 Currently learning **PostScript, System Programming & Advanced
-    ML**
--   ⚡ Love solving **real world engineering problems**
+🎓 **B.Tech Artificial Intelligence & Machine Learning**\
+📍 ITM University, Gwalior (2023--2027)
+
+I am a **problem-driven engineering student** focused on building
+productive and dynamic solutions using **AI/ML, IoT, and scalable
+systems** to solve real-world problems.
+
+⚡ I enjoy creating **deep technical systems combining software,
+hardware, and machine learning**.
+
+------------------------------------------------------------------------
+
+# 🔭 Current Work
+
+-   🖨 Developing **Smart Thermal Printer Driver**
+-   📜 Learning **PostScript & Low Level Printing Systems**
+-   🤖 Building **AI + IoT integrated systems**
+-   ⚙ Exploring **system programming & architecture**
 
 ------------------------------------------------------------------------
 
@@ -23,70 +44,87 @@ productive and dynamic solutions through the practical application of
 
 ## 🤖 GestureBot -- IoT Gesture Controlled Robot
 
--   Built using **ESP32, motor drivers, RF sensors, and gear motors**
--   Implemented **ML gesture recognition model**
--   Commands transmitted wirelessly through **ESP HTTP server**
--   Enables **remote phone based gesture control**
+AI-powered robot controlled through **gesture recognition**.
 
-Tech: `ESP32` `Python` `Machine Learning` `IoT` `Embedded Systems`
+Features: - ML gesture recognition model - Wireless command
+transmission - ESP32 HTTP server communication - Real-time robot
+movement
+
+Tech: `ESP32` `Python` `Machine Learning` `IoT`
 
 ------------------------------------------------------------------------
 
-## 🛒 Starkk.shop -- AI Integrated Scalable E-Commerce Platform
+## 🛒 Starkk.shop -- Scalable MERN E-Commerce Platform
 
-A **production-level MERN stack platform** with dynamic admin analytics
-and advanced authentication.
+A production-level **MERN stack platform with advanced analytics
+dashboard**.
 
-Features: - Drag & Drop **Admin Dashboard Builder** - Real-time **sales,
-payments, and user analytics** - Secure authentication with **Google
-Auth + JWT** - Integrated **Razorpay payment gateway** - Dynamic UI
-components controlled by admin
+Features: - Drag & Drop Admin Dashboard - Real-time analytics - Secure
+authentication system - Payment gateway integration
 
-Tech: `MERN` `Cloudinary` `Twilio` `Razorpay` `Framer Motion` `Plotly`
+Tech: `MongoDB` `Express` `React` `NodeJS` `Plotly` `Framer Motion`
 
 ------------------------------------------------------------------------
 
 # 💻 Tech Stack
 
-### Languages
+## Languages
 
-C • Python • Java • JavaScript
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### AI / ML
+## AI / ML
 
-TensorFlow • PyTorch • OpenCV • NumPy • Pandas • Matplotlib • Plotly
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
-### Web Development
+## Web Development
 
-React • Redux • Context API • EJS • TailwindCSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 
-### Backend
+## Backend
 
-Flask • Node.js • Express.js • JWT
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-### Databases
+## Databases
 
-MongoDB • MySQL
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### IoT
+## Hardware
 
-Arduino • ESP32
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
 
 ------------------------------------------------------------------------
 
 # 📊 GitHub Stats
 
 ![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=sharad-rathore&show_icons=true&theme=tokyonight)
+Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharad-rathore&layout=compact&theme=tokyonight)
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ------------------------------------------------------------------------
 
-# 👁 Profile Visitors
+# 🔥 GitHub Streak
 
-![Visitors](https://komarev.com/ghpvc/?username=sharad-rathore&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub
+Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+# 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 
 ------------------------------------------------------------------------
 
@@ -94,5 +132,5 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharad
 
 📧 Email: **sharad.hkr@gmail.com**
 
-💻 Open to collaboration on: - AI / ML projects - IoT systems - System
-programming - Scalable full-stack applications
+Open to collaboration on: - AI / ML projects - IoT systems - System
+programming - Full stack engineering
