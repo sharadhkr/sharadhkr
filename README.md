@@ -47,22 +47,22 @@ Tech: `MongoDB` `Express` `React` `NodeJS` `Plotly` `Framer Motion`
 # 📊 GitHub Stats
 
 ![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+Stats](https://github-readme-stats.vercel.app/api?username=sharadhkr&show_icons=true&theme=tokyonight)
 
 ![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhkr&layout=compact&theme=tokyonight)
 
 ------------------------------------------------------------------------
 
 # 🔥 GitHub Streak
 
 ![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharadhkr&theme=tokyonight)
 
 ------------------------------------------------------------------------
 
 # 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharadhkr&theme=tokyo-night)
 
 ------------------------------------------------------------------------
