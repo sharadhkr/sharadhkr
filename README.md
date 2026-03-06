@@ -43,12 +43,11 @@ authentication system - Payment gateway integration
 Tech: `MongoDB` `Express` `React` `NodeJS` `Plotly` `Framer Motion`
 
 ------------------------------------------------------------------------
-
 ## 📊 GitHub Stats
 
-![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharadhkr&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharadhkr&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhkr&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharadhkr&layout=compact&theme=tokyonight&hide_border=true)
 
 ------------------------------------------------------------------------
 ## 🔥 GitHub Streak
