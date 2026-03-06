@@ -49,9 +49,9 @@ Tech: `MongoDB` `Express` `React` `NodeJS` `Plotly` `Framer Motion`
 ![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharadhkr&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhkr&layout=compact&theme=tokyonight&hide_border=true)
-## 🔥 GitHub Streak
 
 ------------------------------------------------------------------------
+## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=sharadhkr&theme=tokyonight&hide_border=true)
 ------------------------------------------------------------------------
 
