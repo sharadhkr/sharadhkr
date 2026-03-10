@@ -120,7 +120,7 @@ Pinterest-style **visual sharing platform**.
 
 <td width="40%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" width="300"/>
+<img src="pin.png" width="300"/>
 
 </td>
 </tr>
@@ -151,7 +151,7 @@ IoT-based **wireless thermal printing system using ESP32**.
 
 <td width="40%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3059/3059518.png" width="300"/>
+<img src="printer.png" width="300"/>
 
 </td>
 </tr>
