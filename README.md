@@ -65,7 +65,7 @@ AI-powered robot controlled using **real-time hand gesture recognition**.
 
 ---
 
-### 🛒 Starkk.shop — MERN E-Commerce Platform
+### 🛒 Starkk.shop — **A dyanmic and sclable full optimized store**.
 
 <table>
 <tr>
@@ -83,7 +83,7 @@ Production-level **scalable MERN e-commerce platform**.
 
 #### 🧰 Tech Stack
 
-`MongoDB` `Express` `React` `Node.js` `Redux` `Plotly`
+`chart.js` `swiper.js` `cloudinary` `Plotly` `razorpay` `twillio` `framer motion`
 
 </td>
 
@@ -97,7 +97,7 @@ Production-level **scalable MERN e-commerce platform**.
 
 ---
 
-### 📌 CreatePin — Visual Pin Board Platform
+### 📌 CreatePin — **Visual Pin Board Platform with 3d prespective**
 
 <table>
 <tr>
