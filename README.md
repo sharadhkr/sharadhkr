@@ -79,7 +79,7 @@ Production-level **scalable MERN e-commerce platform**.
 
 #### 🧰 Tech Stack
 
-`swiper.js` `cloudinary` `Plotly` `razorpay` `twillio` `framer motion`
+`swiper.js` `cloudinary` `Plotly` `razorpay` `twillio` `framer-motion`
 
 </td>
 
@@ -99,7 +99,7 @@ Production-level **scalable MERN e-commerce platform**.
 <tr>
 <td width="60%">
 
-Pinterest-style **visual sharing platform**.
+Pinterest-style **visual sharing platform with smoother animations and glassy look**.
 
 #### ✨ Features
 
@@ -110,7 +110,7 @@ Pinterest-style **visual sharing platform**.
 
 #### 🧰 Tech Stack
 
-`MongoDB` `Express` `Node.js` `EJS` `Framer Motion`
+`MongoDB` `Express` `Node.js` `EJS` `Framer Motion` `Gsap`
 
 </td>
 
@@ -130,7 +130,7 @@ Pinterest-style **visual sharing platform**.
 <tr>
 <td width="60%">
 
-IoT-based **wireless thermal printing system using ESP32**.
+IoT-based **wireless thermal printing system using ESP32 devkitv1 & usb host**.
 
 #### ✨ Features
 
@@ -141,7 +141,7 @@ IoT-based **wireless thermal printing system using ESP32**.
 
 #### 🧰 Tech Stack
 
-`ESP32` `Embedded Systems` `IoT`
+`ESP32` `Embedded Systems` `c` `HTML` `CSS`
 
 </td>
 
