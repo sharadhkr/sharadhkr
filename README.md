@@ -83,7 +83,7 @@ Production-level **scalable MERN e-commerce platform**.
 
 #### 🧰 Tech Stack
 
-`chart.js` `swiper.js` `cloudinary` `Plotly` `razorpay` `twillio` `framer motion`
+`swiper.js` `cloudinary` `Plotly` `razorpay` `twillio` `framer motion`
 
 </td>
 
