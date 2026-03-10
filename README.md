@@ -62,7 +62,7 @@ Tech
 ## 🛒 Starkk.shop — MERN E-Commerce Platform
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/placeholder/ecommerce-dashboard.png" width="600">
+<img src="[https://user-images.githubusercontent.com/placeholder/ecommerce-dashboard.png](https://imgs.search.brave.com/gJ0yo-pt_gfZ0onUgCCj8qdqTFcsQcE7wSlTwee-lSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvOTY4MC85Njgw/NTM5LnBuZw)" width="600">
 </p>
 
 Production-level **scalable e-commerce platform**.
