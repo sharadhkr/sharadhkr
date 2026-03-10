@@ -28,8 +28,6 @@ I enjoy solving **real-world problems using IOT & AIML**.
 </p>
 
 ---
-
-# 🚀 Featured Projects
 ## 🚀 Featured Projects
 
 ---
