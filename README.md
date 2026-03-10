@@ -1,61 +1,157 @@
-![Header](./i.png)
+<h1 align="center">Hi 👋, I'm Sharad Rathore</h1>
 
-🎓 **B.Tech Artificial Intelligence & Machine Learning**\
-📍 ITM University, Gwalior (2023--2027)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+IoT+Engineer;Problem+Driven+Developer;Building+Real+World+Systems;Machine+Learning+%26+Embedded+Systems&center=true&width=500&height=45">
+</p>
 
-I am a **problem-driven engineering student** focused on building
-productive and dynamic solutions using **AI/ML, IoT, and scalable
-systems** to solve real-world problems.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sharadhkr&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social"/>
+</p>
 
-⚡ I enjoy creating **deep technical systems combining software,
-hardware, and machine learning**.
+---
 
-![Visitors](https://komarev.com/ghpvc/?username=sharad-rathore&label=Profile%20views&color=0e75b6&style=flat)
+# 🧠 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+🚀 Problem Driven Engineering Student passionate about building **real-world engineering systems** using AI, IoT and scalable technologies.
 
+I love working on:
 
-------------------------------------------------------------------------
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🔌 IoT & Embedded Systems  
+- 🌐 Scalable Web Platforms  
+- 📊 Data Visualization  
+- 🧠 Solving Real World Engineering Problems  
 
-# 🏆 Major Projects
+---
 
-## 🤖 GestureBot -- IoT Gesture Controlled Robot
+# ⚡ Tech Stack
 
-AI-powered robot controlled through **gesture recognition**.
+### 👨‍💻 Programming
+`Python` `JavaScript` `C/C++`
 
-Features: - ML gesture recognition model - Wireless command
-transmission - ESP32 HTTP server communication - Real-time robot
-movement
+### 🌐 Web Development
+`React` `Node.js` `Express` `MongoDB` `Redux`
 
-Tech: `ESP32` `Python` `Machine Learning` `IoT`
+### 🤖 AI / Data
+`Machine Learning` `Computer Vision` `Data Visualization`
 
-------------------------------------------------------------------------
+### 🔌 IoT
+`ESP32` `Arduino` `Embedded Systems`
 
-## 🛒 Starkk.shop -- Scalable MERN E-Commerce Platform
+### 🛠 Tools
+`Docker` `Git` `Linux`
 
-A production-level **MERN stack platform with advanced analytics
-dashboard**.
+---
 
-Features: - Drag & Drop Admin Dashboard - Real-time analytics - Secure
-authentication system - Payment gateway integration
+# 🚀 Featured Projects
 
-Tech: `MongoDB` `Express` `React` `NodeJS` `Plotly` `Framer Motion`
+## 🤖 GestureBot — AI Gesture Controlled Robot
 
-------------------------------------------------------------------------
-## 📊 GitHub Stats
+AI-powered robot controlled using **real-time hand gesture recognition**.
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharadhkr&show_icons=true&theme=tokyonight&hide_border=true)
+**Features**
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharadhkr&layout=compact&theme=tokyonight&hide_border=true)
+- Real-time gesture detection  
+- Wireless ESP32 robot communication  
+- Computer vision based movement control  
+- Custom ML gesture detection model  
 
-------------------------------------------------------------------------
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=sharadhkr&theme=tokyonight&hide_border=true)
-------------------------------------------------------------------------
+**Tech**
 
-# 📈 Contribution Graph
+`Python` `OpenCV` `Machine Learning` `ESP32`
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharadhkr&theme=tokyo-night)
+---
 
-------------------------------------------------------------------------
+## 🛒 Starkk.shop — Scalable MERN E-Commerce Platform
+
+Production-level **MERN stack e-commerce platform** with analytics dashboard.
+
+**Features**
+
+- Drag & Drop Admin Dashboard  
+- Real-time analytics system  
+- Secure authentication system  
+- Payment gateway integration  
+- Optimized API caching  
+
+**Tech**
+
+`MongoDB` `Express` `React` `Node.js` `Redux` `Plotly`
+
+---
+
+## 📌 CreatePin — Visual Pin Board Platform
+
+Pinterest-inspired **image sharing platform**.
+
+**Features**
+
+- Create pins  
+- Save pins to boards  
+- Share pins  
+- Smooth UI animations  
+
+**Tech**
+
+`MongoDB` `Express` `Node.js` `EJS` `Framer Motion`
+
+---
+
+## 🖨 Smart Thermal Printer Device
+
+IoT-based **wireless thermal printing system using ESP32**.
+
+**Features**
+
+- Mobile-based print requests  
+- ESP32 hosted web server  
+- Wireless printing workflow  
+- Thermal printer command execution  
+
+**Tech**
+
+`ESP32` `Embedded Systems` `IoT`
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharadhkr&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhkr&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🔥 Currently Learning
+
+- Advanced Machine Learning  
+- System Design  
+- Microservices Architecture  
+- Docker & Kubernetes  
+- Data Engineering  
+
+---
+
+# 📫 Connect With Me
+
+GitHub  
+https://github.com/sharadhkr
+
+---
+
+# 💡 Engineering Philosophy
+
+> Solve real problems. Build real systems. Learn deeply.
