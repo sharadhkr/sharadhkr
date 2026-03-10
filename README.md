@@ -28,9 +28,7 @@ I enjoy solving **real-world problems using IOT & AIML**.
 </p>
 
 ---
-## 🚀 Featured Projects
-
----
+## 🚀 creations 
 
 ### 🤖 GestureBot — AI Gesture Controlled Robot
 
