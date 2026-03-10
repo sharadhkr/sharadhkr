@@ -1,46 +1,39 @@
 <h1 align="center">Hi 👋, I'm Sharad Rathore</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+IoT+Engineer;Problem+Driven+Developer;Building+Real+World+Systems;Machine+Learning+%26+Embedded+Systems&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;IoT+Developer;Problem+Driven+Builder;Building+Real+World+Systems&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sharadhkr&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social"/>
+<img src="https://komarev.com/ghpvc/?username=sharadhkr&label=Profile%20Views&color=0e75b6&style=flat">
+<img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social">
 </p>
 
 ---
 
 # 🧠 About Me
 
-🚀 Problem Driven Engineering Student passionate about building **real-world engineering systems** using AI, IoT and scalable technologies.
+🚀 Problem Driven Engineering Student passionate about building **AI systems, IoT devices and scalable web platforms**.
 
-I love working on:
+I enjoy solving **real-world problems using deep technical engineering**.
 
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🔌 IoT & Embedded Systems  
-- 🌐 Scalable Web Platforms  
-- 📊 Data Visualization  
-- 🧠 Solving Real World Engineering Problems  
+⚡ Focus Areas
+
+• Artificial Intelligence
+• IoT & Embedded Systems
+• Scalable Backend Systems
+• Data Visualization
+• Real World Engineering Problems
 
 ---
 
 # ⚡ Tech Stack
 
-### 👨‍💻 Programming
-`Python` `JavaScript` `C/C++`
+<p align="center">
 
-### 🌐 Web Development
-`React` `Node.js` `Express` `MongoDB` `Redux`
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,docker,linux,git,c,cpp"/>
 
-### 🤖 AI / Data
-`Machine Learning` `Computer Vision` `Data Visualization`
-
-### 🔌 IoT
-`ESP32` `Arduino` `Embedded Systems`
-
-### 🛠 Tools
-`Docker` `Git` `Linux`
+</p>
 
 ---
 
@@ -48,69 +41,81 @@ I love working on:
 
 ## 🤖 GestureBot — AI Gesture Controlled Robot
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/placeholder/gesturebot-demo.gif" width="600">
+</p>
+
 AI-powered robot controlled using **real-time hand gesture recognition**.
 
 **Features**
 
-- Real-time gesture detection  
-- Wireless ESP32 robot communication  
-- Computer vision based movement control  
-- Custom ML gesture detection model  
+• Computer vision gesture detection
+• Wireless ESP32 robot control
+• ML based gesture model
+• Real-time movement commands
 
-**Tech**
-
+Tech
 `Python` `OpenCV` `Machine Learning` `ESP32`
 
 ---
 
-## 🛒 Starkk.shop — Scalable MERN E-Commerce Platform
+## 🛒 Starkk.shop — MERN E-Commerce Platform
 
-Production-level **MERN stack e-commerce platform** with analytics dashboard.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/placeholder/ecommerce-dashboard.png" width="600">
+</p>
 
-**Features**
+Production-level **scalable e-commerce platform**.
 
-- Drag & Drop Admin Dashboard  
-- Real-time analytics system  
-- Secure authentication system  
-- Payment gateway integration  
-- Optimized API caching  
+Features
 
-**Tech**
+• Drag & Drop Admin Dashboard
+• Real-time analytics
+• Secure authentication
+• Payment gateway integration
+• Optimized caching system
 
+Tech
 `MongoDB` `Express` `React` `Node.js` `Redux` `Plotly`
 
 ---
 
 ## 📌 CreatePin — Visual Pin Board Platform
 
-Pinterest-inspired **image sharing platform**.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/placeholder/pinterest-clone.png" width="600">
+</p>
 
-**Features**
+Pinterest-style **visual sharing platform**.
 
-- Create pins  
-- Save pins to boards  
-- Share pins  
-- Smooth UI animations  
+Features
 
-**Tech**
+• Create pins
+• Save boards
+• Share posts
+• Smooth animations
 
+Tech
 `MongoDB` `Express` `Node.js` `EJS` `Framer Motion`
 
 ---
 
 ## 🖨 Smart Thermal Printer Device
 
-IoT-based **wireless thermal printing system using ESP32**.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/placeholder/iot-printer.jpg" width="600">
+</p>
 
-**Features**
+IoT-based **wireless printing system using ESP32**.
 
-- Mobile-based print requests  
-- ESP32 hosted web server  
-- Wireless printing workflow  
-- Thermal printer command execution  
+Features
 
-**Tech**
+• Mobile print requests
+• ESP32 hosted web server
+• Laptop → printer communication
+• Real-time printing workflow
 
+Tech
 `ESP32` `Embedded Systems` `IoT`
 
 ---
@@ -119,9 +124,19 @@ IoT-based **wireless thermal printing system using ESP32**.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharadhkr&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sharadhkr&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhkr&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhkr&layout=compact&theme=tokyonight">
+
+</p>
+
+---
+
+# 📈 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharadhkr&theme=tokyonight">
 
 </p>
 
@@ -130,24 +145,36 @@ IoT-based **wireless thermal printing system using ESP32**.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# ⏱ Coding Activity Tracker
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadhkr&theme=tokyonight">
+
 </p>
 
 ---
 
 # 🔥 Currently Learning
 
-- Advanced Machine Learning  
-- System Design  
-- Microservices Architecture  
-- Docker & Kubernetes  
-- Data Engineering  
+• Advanced Machine Learning
+• System Design
+• Microservices Architecture
+• Docker & Kubernetes
+• Data Engineering
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect
 
-GitHub  
+GitHub
 https://github.com/sharadhkr
 
 ---
@@ -155,3 +182,5 @@ https://github.com/sharadhkr
 # 💡 Engineering Philosophy
 
 > Solve real problems. Build real systems. Learn deeply.
+
+---
