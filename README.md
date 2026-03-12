@@ -23,7 +23,7 @@ I enjoy solving **real-world problems using IOT & AIML**.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,docker,linux,git,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,docker,linux,git,c,cpp,react,opencv,tenserflow,numpy"/>
 
 </p>
 
