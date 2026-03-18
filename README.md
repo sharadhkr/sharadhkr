@@ -147,7 +147,7 @@ IoT-based **wireless thermal printing system using ESP32 devkitv1 & usb host**.
 
 <td width="40%">
 
-<img src="printer.png" width="300"/>
+<img align="center" src="printer.png" width="300"/>
 
 </td>
 </tr>
