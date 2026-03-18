@@ -137,7 +137,8 @@ IoT-based **wireless thermal printing system using ESP32 devkitv1 & usb host**.
 * Mobile-based print requests
 * ESP32 hosted web server
 * Laptop → printer communication
-* Real-time printing workflow
+* Real-time printing workflowc
+* Universal for all thermal printers works with no driver installation
 
 #### 🧰 Tech Stack
 
