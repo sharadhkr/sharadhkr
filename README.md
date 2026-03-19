@@ -24,7 +24,7 @@ I enjoy solving **real-world problems using IOT & AIML**.
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,firebase,flask,git,postman,cloudinary,opencv,tensorflow,numpy,tailwindcss" />
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy,flask,git,postman" />
 </p>
 
 ---
