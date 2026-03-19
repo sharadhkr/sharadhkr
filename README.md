@@ -5,81 +5,53 @@
 <img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social">
 </p>
 
-Problem Driven Engineering Student passionate about building **AI systems, IoT devices and scalable web platforms**.
+## 👨‍💻 Sharad Rathore
 
-I enjoy solving **real-world problems using IOT & AIML**.
+Problem-driven engineering student building **AI systems, IoT devices, and scalable backend platforms**.
 
-⚡ Focus Areas
-
-• Artificial Intelligence
-• IoT & Embedded Systems
-• Scalable Backend Systems
-• Data Visualization
-• Real World Engineering Problems
+Passionate about solving **real-world problems using AI/ML, IoT, and distributed systems**.
 
 ---
 
-# ⚡ Blocks
+## ⚡ Focus Areas
+
+• Artificial Intelligence & Computer Vision
+• IoT & Embedded Systems
+• Scalable Backend Architecture
+• Real-time Systems & Optimization
+• Problem-Driven Engineering
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,firebase,flask,git,postman,cloudinary,opencv,tensorflow,numpy,tailwindcss" />
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy,flask,git,postman" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,firebase,flask,git,postman,cloudinary,opencv,tensorflow,numpy" />
 </p>
 
 ---
-## 🚀 creations 
 
-### 🤖 GestureBot — AI Gesture Controlled Robot
+# 🚀 Projects
 
-<table>
-<tr>
-<td width="60%">
-
-AI-powered robot controlled using **real-time hand gesture recognition**.
-
-#### ✨ Features
-
-* Computer vision gesture detection
-* Wireless ESP32 robot control
-* ML-based gesture model
-* Real-time movement commands
-
-#### 🧰 Tech Stack
-
-`Python` `OpenCV` `Machine Learning` `ESP32`
-
-</td>
-
-<td width="40%">
-
-<img src="./car.png" width="320"/>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛒 Starkk.shop — **A dyanmic and sclable full optimized store**.
+## 🛒 Starkk.shop — Scalable MERN E-Commerce Platform
 
 <table>
 <tr>
 <td width="60%">
 
-Production-level **scalable MERN e-commerce platform**.
+Production-level **scalable e-commerce system** built using MERN stack.
 
-#### ✨ Features
+### ✨ Key Highlights
 
-* Drag & Drop Admin Dashboard
-* Real-time analytics
-* Secure authentication system
-* Payment gateway integration
-* Optimized caching system
+• Redis caching for optimized backend performance
+• Elasticsearch-powered product search & filtering
+• Secure authentication with OTP and payment integration
+• Dynamic homepage rendering via backend configuration
+• Optimized API architecture to reduce redundant requests
 
-#### 🧰 Tech Stack
+### 🧰 Tech Stack
 
-`swiper.js` `cloudinary` `Plotly` `razorpay` `twillio` `framer-motion`
+`MongoDB` `Express.js` `React` `Node.js` `Redis` `Elasticsearch` `Razorpay` `Cloudinary`
 
 </td>
 
@@ -93,24 +65,54 @@ Production-level **scalable MERN e-commerce platform**.
 
 ---
 
-### 📌 CreatePin — **Visual Pin Board Platform with 3d prespective**
+## 🤖 GestureBot — AI Gesture Controlled Robot
 
 <table>
 <tr>
 <td width="60%">
 
-Pinterest-style **visual sharing platform with smoother animations and glassy look**.
+AI-powered robot controlled using **real-time hand gesture recognition**.
 
-#### ✨ Features
+### ✨ Features
 
-* Create pins
-* Save boards
-* Share posts
-* Smooth UI animations
+• Computer vision-based gesture detection
+• Real-time hand tracking using MediaPipe
+• ESP32-based wireless robot control
+• Low-latency gesture-to-action pipeline
 
-#### 🧰 Tech Stack
+### 🧰 Tech Stack
 
-`MongoDB` `Express` `Node.js` `EJS` `Framer Motion` `Gsap`
+`Python` `OpenCV` `MediaPipe` `ESP32`
+
+</td>
+
+<td width="40%">
+
+<img src="./car.png" width="320"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 CreatePin — Visual Pin Board Platform
+
+<table>
+<tr>
+<td width="60%">
+
+Pinterest-style **visual sharing platform with smooth animations and modern UI**.
+
+### ✨ Features
+
+• Pin creation and board management
+• Smooth animations using GSAP & Framer Motion
+• Responsive and interactive UI
+
+### 🧰 Tech Stack
+
+`MongoDB` `Express` `Node.js` `EJS` `Framer Motion` `GSAP`
 
 </td>
 
@@ -124,31 +126,30 @@ Pinterest-style **visual sharing platform with smoother animations and glassy lo
 
 ---
 
-### 🖨 Smart Thermal Printer Device
+## 🖨 Smart Thermal Printer Device
 
 <table>
 <tr>
 <td width="60%">
 
-IoT-based **wireless thermal printing system using ESP32 devkitv1 & usb host**.
+IoT-based **wireless thermal printing system using ESP32**.
 
-#### ✨ Features
+### ✨ Features
 
-* Mobile-based print requests
-* ESP32 hosted web server
-* Laptop → printer communication
-* Real-time printing workflowc
-* Universal for all thermal printers works with no driver installation
+• Mobile-based print requests via browser
+• ESP32-hosted web server
+• Real-time print job forwarding system
+• Works without driver installation
 
-#### 🧰 Tech Stack
+### 🧰 Tech Stack
 
-`ESP32` `Embedded Systems` `c` `HTML` `CSS`
+`ESP32` `Embedded Systems` `C` `HTML` `CSS`
 
 </td>
 
 <td width="40%">
 
-<img align="center" src="printer.png" width="300"/>
+<img src="printer.png" width="300"/>
 
 </td>
 </tr>
@@ -156,15 +157,10 @@ IoT-based **wireless thermal printing system using ESP32 devkitv1 & usb host**.
 
 ---
 
-
----
-
-# 📈 3D Contribution Graph
+# 📈 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharadhkr&theme=tokyonight">
-
 </p>
 
 ---
@@ -172,17 +168,13 @@ IoT-based **wireless thermal printing system using ESP32 devkitv1 & usb host**.
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-
 </p>
 
 ---
 
-# ⏱ Coding Activity Tracker
+# ⏱ Coding Activity
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadhkr&theme=tokyonight">
-
 </p>
