@@ -1,35 +1,29 @@
-<!-- ================= HEADER ================= -->
+![Header](./i.png)
 
-<h1 align="center">Hi 👋, I'm Sharad Rathore</h1>
-<h3 align="center">🚀 Full Stack • AI/ML • IoT Engineer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharadhkr&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social" />
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=sharadhkr&label=Profile%20Views&color=0e75b6&style=flat">
+<img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social">
 </p>
 
-<p align="center">
-  <img src="./i.png" width="100%" />
-</p>
+## 👨‍💻 Sharad Rathore
+
+Problem-driven engineering student building **AI systems, IoT devices, and scalable backend platforms**.
+
+Passionate about solving **real-world problems using AI/ML, IoT, and distributed systems**.
 
 ---
 
-## 🧠 About Me
+## ⚡ Focus Areas
 
-* 🔥 Problem-driven developer building **real-world systems**
-* ⚡ Focused on **Scalable Backend + AI/ML + IoT**
-* 🧩 Love solving complex engineering problems
-* 🚀 Building systems, not just projects
-
----
-
-## ⚡ Core Technologies
-
-`MERN Stack` • `Redis` • `Elasticsearch` • `Computer Vision` • `IoT Systems` • `REST APIs`
+• Artificial Intelligence & Computer Vision
+• IoT & Embedded Systems
+• Scalable Backend Architecture
+• Real-time Systems & Optimization
+• Problem-Driven Engineering
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,firebase,flask,git,postman,cloudinary,opencv,tensorflow,numpy" />
@@ -37,7 +31,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 🛒 Starkk.shop — Scalable MERN E-Commerce Platform
 
@@ -45,28 +39,26 @@
 <tr>
 <td width="60%">
 
-🔥 Production-level **scalable backend architecture**
+Production-level **scalable e-commerce system** built using MERN stack.
 
-### ⚡ Highlights
+### ✨ Key Highlights
 
-* Redis caching for high-performance APIs
-* Elasticsearch-powered product search
-* Secure OTP authentication & payment integration
-* Dynamic homepage rendering system
-* Optimized API design reducing redundant calls
+• Redis caching for optimized backend performance
+• Elasticsearch-powered product search & filtering
+• Secure authentication with OTP and payment integration
+• Dynamic homepage rendering via backend configuration
+• Optimized API architecture to reduce redundant requests
 
 ### 🧰 Tech Stack
 
 `MongoDB` `Express.js` `React` `Node.js` `Redis` `Elasticsearch` `Razorpay` `Cloudinary`
 
-### 🔗 Links
-
-* Repo: https://github.com/sharadhkr/stark
-
 </td>
 
 <td width="40%">
+
 <img src="stark.png" width="300"/>
+
 </td>
 </tr>
 </table>
@@ -79,14 +71,14 @@
 <tr>
 <td width="60%">
 
-🤖 AI + Robotics + Real-time Systems
+AI-powered robot controlled using **real-time hand gesture recognition**.
 
-### ⚡ Highlights
+### ✨ Features
 
-* Real-time hand gesture recognition
-* Computer vision pipeline using MediaPipe
-* ESP32 wireless control system
-* Low latency gesture-to-action mapping
+• Computer vision-based gesture detection
+• Real-time hand tracking using MediaPipe
+• ESP32-based wireless robot control
+• Low-latency gesture-to-action pipeline
 
 ### 🧰 Tech Stack
 
@@ -95,26 +87,28 @@
 </td>
 
 <td width="40%">
+
 <img src="./car.png" width="320"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 📌 CreatePin — Visual Sharing Platform
+## 📌 CreatePin — Visual Pin Board Platform
 
 <table>
 <tr>
 <td width="60%">
 
-🎨 Pinterest-style UI platform
+Pinterest-style **visual sharing platform with smooth animations and modern UI**.
 
-### ⚡ Highlights
+### ✨ Features
 
-* Smooth animations using GSAP & Framer Motion
-* Interactive board & pin system
-* Responsive and modern UI
+• Pin creation and board management
+• Smooth animations using GSAP & Framer Motion
+• Responsive and interactive UI
 
 ### 🧰 Tech Stack
 
@@ -123,7 +117,9 @@
 </td>
 
 <td width="40%">
+
 <img src="pin.png" width="300"/>
+
 </td>
 </tr>
 </table>
@@ -136,14 +132,14 @@
 <tr>
 <td width="60%">
 
-🧠 IoT + Embedded Engineering
+IoT-based **wireless thermal printing system using ESP32**.
 
-### ⚡ Highlights
+### ✨ Features
 
-* ESP32-based wireless printing system
-* Browser-based print requests
-* Real-time print job forwarding
-* No driver installation required
+• Mobile-based print requests via browser
+• ESP32-hosted web server
+• Real-time print job forwarding system
+• Works without driver installation
 
 ### 🧰 Tech Stack
 
@@ -152,21 +148,19 @@
 </td>
 
 <td width="40%">
+
 <img src="printer.png" width="300"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharadhkr&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadhkr&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharadhkr&theme=tokyonight">
 </p>
 
 ---
@@ -174,29 +168,13 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
-# 🚀 Current Focus
-
-* ⚡ Scaling backend systems (Redis + caching)
-* 🤖 Advanced computer vision projects
-* 🌐 Real-time systems & networking
-* 📡 IoT + distributed devices
-
----
-
-# 🤝 Let's Connect
+# ⏱ Coding Activity
 
 <p align="center">
-<a href="https://linkedin.com/in/sharadhkr"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:Sharad.hkr@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
-</p>
-
----
-
-<p align="center">
-🔥 Building systems that solve real problems
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadhkr&theme=tokyonight">
 </p>
