@@ -26,7 +26,7 @@ Passionate about solving **real-world problems using AI/ML, IoT, and distributed
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,firebase,flask,git,postman,cloudinary,opencv,tensorflow,numpy" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,firebase,flask,git,postman,tensorflow,numpy" />
 </p>
 
 ---
