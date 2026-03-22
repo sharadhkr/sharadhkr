@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social">
 </p>
 
-## 👨‍💻 Sharad Rathore
 
 Problem-driven engineering student building **AI systems, IoT devices, and scalable backend platforms**.
 
