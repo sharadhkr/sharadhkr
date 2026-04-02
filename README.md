@@ -50,7 +50,7 @@ Production-level **scalable e-commerce system** built using MERN stack.
 
 ### 🧰 Tech Stack
 
-`MongoDB` `Express.js` `React` `Node.js` `Redis` `Elasticsearch` `Razorpay` `Cloudinary`
+`Express.js` `React` `Node.js` `Redis` `Elasticsearch` `Razorpay` `Cloudinary`
 
 </td>
 
